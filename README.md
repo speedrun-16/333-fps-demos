@@ -6,6 +6,7 @@ This repository is a structured archive for personal best demos achieved in the 
 
 | Map Name | Demos | Last Updated |
 | :--- | :---- | :--- |
+| [deathrun_forest](./deathrun_forest) | 1 | 2025-09-18 |
 | [speedrun_confusion2](./speedrun_confusion2) | 1 | 2025-09-15 |
 | [speedrun_evi_big_long](./speedrun_evi_big_long) | 1 | 2025-09-15 |
 | [speedrun_grasz_final](./speedrun_grasz_final) | 1 | 2025-09-17 |
@@ -20,5 +21,5 @@ This repository is a structured archive for personal best demos achieved in the 
 ---
 
 ### Statistics
-- Total Maps: **10**
-- Total Demos: **12**
+- Total Maps: **11**
+- Total Demos: **13**
