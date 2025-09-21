@@ -1,5 +1,17 @@
 [
   {
+    "demFileHash": "731c477cc13a1584c6dfd6439d1147b4e4e134c4057d3bbd60088fe0c5f370c8",
+    "uid": "WQUSTDT3D",
+    "map": "speedrun_w00dfun",
+    "category": 5,
+    "time": 10924,
+    "playerSteamId": "STEAM_0:1:535182532",
+    "timestamp": "2025-09-21T07:51:36.000Z",
+    "zipFilename": "00010924_STEAM_0_1_535182532_20250921-075136.zip",
+    "path": "speedrun_w00dfun/00010924_STEAM_0_1_535182532_20250921-075136.zip",
+    "archivedAt": "2025-09-21T09:00:03.034Z"
+  },
+  {
     "demFileHash": "625ed4cff76195043b964b18aaa6ee1cc5324545fb5d67b0d9233aa95e2434ee",
     "uid": "RCVWGU602",
     "map": "speedrun_outside_estonia2",
