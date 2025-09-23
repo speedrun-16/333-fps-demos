@@ -1,5 +1,65 @@
 [
   {
+    "demFileHash": "ca0d0333f8935ca64147ec36339b2fe4750159e2bea1ce6664d8462a39cbe4b8",
+    "uid": "UV3GLSZEZ",
+    "map": "deathrun_astro",
+    "category": 5,
+    "time": 7292,
+    "playerSteamId": "STEAM_0:1:926467834",
+    "timestamp": "2025-09-22T20:50:04.000Z",
+    "zipFilename": "00007292_STEAM_0_1_926467834_20250922-205004.zip",
+    "path": "deathrun_astro/00007292_STEAM_0_1_926467834_20250922-205004.zip",
+    "archivedAt": "2025-09-23T04:45:01.061Z"
+  },
+  {
+    "demFileHash": "484ca30a43d4d8d2ed73f8cf2f468b4563743a2aaa6f54c54dc4d670e0c28052",
+    "uid": "5OJE01TNI",
+    "map": "deathrun_arctic",
+    "category": 5,
+    "time": 17566,
+    "playerSteamId": "STEAM_0:0:1181305",
+    "timestamp": "2025-09-22T20:28:37.000Z",
+    "zipFilename": "00017566_STEAM_0_0_1181305_20250922-202837.zip",
+    "path": "deathrun_arctic/00017566_STEAM_0_0_1181305_20250922-202837.zip",
+    "archivedAt": "2025-09-23T04:45:01.061Z"
+  },
+  {
+    "demFileHash": "a9dc9a80ee393e26816586e941e9a9abda597e28214d3f6c254d4ce47efd0511",
+    "uid": "8BFKM15FQ",
+    "map": "deathrun_arctic",
+    "category": 5,
+    "time": 17626,
+    "playerSteamId": "STEAM_0:1:926467834",
+    "timestamp": "2025-09-22T20:29:28.000Z",
+    "zipFilename": "00017626_STEAM_0_1_926467834_20250922-202928.zip",
+    "path": "deathrun_arctic/00017626_STEAM_0_1_926467834_20250922-202928.zip",
+    "archivedAt": "2025-09-23T04:45:01.061Z"
+  },
+  {
+    "demFileHash": "6a8ea26a6c9eba152f92bd58d3043edeef87c4f9fe3efb4f545c395361b86c81",
+    "uid": "RPK7YX4VZ",
+    "map": "deathrun_astro",
+    "category": 5,
+    "time": 9014,
+    "playerSteamId": "STEAM_0:0:1181305",
+    "timestamp": "2025-09-22T20:46:59.000Z",
+    "zipFilename": "00009014_STEAM_0_0_1181305_20250922-204659.zip",
+    "path": "deathrun_astro/00009014_STEAM_0_0_1181305_20250922-204659.zip",
+    "archivedAt": "2025-09-23T04:45:01.061Z"
+  },
+  {
+    "demFileHash": "75690f9b0b18f9244fe5ab7d519a265138fd29cc4a1cfd9a2d3bb8ac44900c37",
+    "uid": "X1NP1FX55",
+    "map": "deathrun_arctic",
+    "category": 5,
+    "time": 17071,
+    "playerSteamId": "STEAM_0:0:24751394",
+    "timestamp": "2025-09-22T20:29:25.000Z",
+    "zipFilename": "00017071_STEAM_0_0_24751394_20250922-202925.zip",
+    "path": "deathrun_arctic/00017071_STEAM_0_0_24751394_20250922-202925.zip",
+    "archivedAt": "2025-09-23T04:45:01.061Z"
+  },
+  {
     "demFileHash": "731c477cc13a1584c6dfd6439d1147b4e4e134c4057d3bbd60088fe0c5f370c8",
     "uid": "WQUSTDT3D",
     "map": "speedrun_w00dfun",
