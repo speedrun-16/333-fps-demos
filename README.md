@@ -9,6 +9,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [deathrun_arctic](./deathrun_arctic) | 3 | 2025-09-22 |
 | [deathrun_astro](./deathrun_astro) | 2 | 2025-09-22 |
 | [deathrun_forest](./deathrun_forest) | 1 | 2025-09-18 |
+| [speedrun_chemical_maxfps](./speedrun_chemical_maxfps) | 1 | 2025-09-23 |
 | [speedrun_confusion2](./speedrun_confusion2) | 1 | 2025-09-15 |
 | [speedrun_evi_big_long](./speedrun_evi_big_long) | 1 | 2025-09-15 |
 | [speedrun_grasz_final](./speedrun_grasz_final) | 1 | 2025-09-19 |
@@ -25,5 +26,5 @@ This repository is a structured archive for personal best demos achieved in the 
 ---
 
 ### Statistics
-- Total Maps: **15**
-- Total Demos: **24**
+- Total Maps: **16**
+- Total Demos: **25**

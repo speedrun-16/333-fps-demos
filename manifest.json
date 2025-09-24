@@ -1,5 +1,17 @@
 [
   {
+    "demFileHash": "b1df10b49f1a34d8400bf244d61750f797638001f4c890286751ccb8aebcae29",
+    "uid": "1W76FSI8T",
+    "map": "speedrun_chemical_maxfps",
+    "category": 5,
+    "time": 7740,
+    "playerSteamId": "STEAM_0:1:29970948",
+    "timestamp": "2025-09-23T05:34:56.000Z",
+    "zipFilename": "00007740_STEAM_0_1_29970948_20250923-053456.zip",
+    "path": "speedrun_chemical_maxfps/00007740_STEAM_0_1_29970948_20250923-053456.zip",
+    "archivedAt": "2025-09-24T00:00:07.795Z"
+  },
+  {
     "demFileHash": "ca0d0333f8935ca64147ec36339b2fe4750159e2bea1ce6664d8462a39cbe4b8",
     "uid": "UV3GLSZEZ",
     "map": "deathrun_astro",
