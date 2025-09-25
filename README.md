@@ -11,11 +11,13 @@ This repository is a structured archive for personal best demos achieved in the 
 | [deathrun_forest](./deathrun_forest) | 1 | 2025-09-18 |
 | [speedrun_chemical_maxfps](./speedrun_chemical_maxfps) | 1 | 2025-09-23 |
 | [speedrun_confusion2](./speedrun_confusion2) | 1 | 2025-09-15 |
+| [speedrun_easy_v1](./speedrun_easy_v1) | 2 | 2025-09-24 |
 | [speedrun_evi_big_long](./speedrun_evi_big_long) | 1 | 2025-09-15 |
 | [speedrun_grasz_final](./speedrun_grasz_final) | 1 | 2025-09-19 |
 | [speedrun_herb](./speedrun_herb) | 1 | 2025-09-17 |
 | [speedrun_jeans_short](./speedrun_jeans_short) | 1 | 2025-09-15 |
 | [speedrun_muhaha](./speedrun_muhaha) | 1 | 2025-09-17 |
+| [speedrun_neocist](./speedrun_neocist) | 1 | 2025-09-25 |
 | [speedrun_outside_estonia2](./speedrun_outside_estonia2) | 3 | 2025-09-20 |
 | [speedrun_pool_simple](./speedrun_pool_simple) | 3 | 2025-09-16 |
 | [speedrun_r3x_final](./speedrun_r3x_final) | 1 | 2025-09-19 |
@@ -26,5 +28,5 @@ This repository is a structured archive for personal best demos achieved in the 
 ---
 
 ### Statistics
-- Total Maps: **16**
-- Total Demos: **25**
+- Total Maps: **18**
+- Total Demos: **28**
