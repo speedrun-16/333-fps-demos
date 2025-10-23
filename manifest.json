@@ -1,5 +1,53 @@
 [
   {
+    "demFileHash": "430f239ee243cd6feec91fa590a00365f505630941276940aea2baea435f9a18",
+    "uid": "TYVSM3LF3",
+    "map": "speedrun_neocist",
+    "category": 5,
+    "time": 13833,
+    "playerSteamId": "STEAM_0:1:461671282",
+    "timestamp": "2025-10-22T19:29:02.000Z",
+    "zipFilename": "00013833_STEAM_0_1_461671282_20251022-192902.zip",
+    "path": "speedrun_neocist/00013833_STEAM_0_1_461671282_20251022-192902.zip",
+    "archivedAt": "2025-10-23T00:00:00.931Z"
+  },
+  {
+    "demFileHash": "ccfda951f63687f219cb1f8a78710d0d958c19a6f4babd82ec6739716ae131c8",
+    "uid": "CE17RL6TA",
+    "map": "deathrun_oa_easy",
+    "category": 5,
+    "time": 15744,
+    "playerSteamId": "STEAM_0:1:461671282",
+    "timestamp": "2025-10-22T20:57:06.000Z",
+    "zipFilename": "00015744_STEAM_0_1_461671282_20251022-205706.zip",
+    "path": "deathrun_oa_easy/00015744_STEAM_0_1_461671282_20251022-205706.zip",
+    "archivedAt": "2025-10-23T00:00:00.931Z"
+  },
+  {
+    "demFileHash": "b5122dc8334f5780fcd0275e1d17a0b2e1f904a0d47d6221a5413734035d6c38",
+    "uid": "RXCNM0ZKU",
+    "map": "speedrun_pupsik",
+    "category": 5,
+    "time": 7276,
+    "playerSteamId": "STEAM_0:1:29970948",
+    "timestamp": "2025-10-22T22:36:16.000Z",
+    "zipFilename": "00007276_STEAM_0_1_29970948_20251022-223616.zip",
+    "path": "speedrun_pupsik/00007276_STEAM_0_1_29970948_20251022-223616.zip",
+    "archivedAt": "2025-10-23T00:00:00.931Z"
+  },
+  {
+    "demFileHash": "a53050d1208ae53f3b2df9e854b4c8cde725c5fe5e9d202d85ce255a33ab6870",
+    "uid": "RB3SPJKEK",
+    "map": "speedrun_voidsanctum_beta2",
+    "category": 5,
+    "time": 20641,
+    "playerSteamId": "STEAM_0:1:461671282",
+    "timestamp": "2025-10-22T20:36:43.000Z",
+    "zipFilename": "00020641_STEAM_0_1_461671282_20251022-203643.zip",
+    "path": "speedrun_voidsanctum_beta2/00020641_STEAM_0_1_461671282_20251022-203643.zip",
+    "archivedAt": "2025-10-23T00:00:00.931Z"
+  },
+  {
     "demFileHash": "4412b742a9c839b9a9a87d652cba4548b9e16be483b9211d6aeaf6386d5e3339",
     "uid": "YAGAS0RF7",
     "map": "speedrun_r3x_final",
