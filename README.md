@@ -20,6 +20,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_easy_v1](./speedrun_easy_v1) | 2 | 2025-09-24 |
 | [speedrun_evi_big_long](./speedrun_evi_big_long) | 1 | 2025-09-15 |
 | [speedrun_evidens](./speedrun_evidens) | 1 | 2025-10-05 |
+| [speedrun_garden](./speedrun_garden) | 1 | 2025-10-23 |
 | [speedrun_grasz_final](./speedrun_grasz_final) | 1 | 2025-09-19 |
 | [speedrun_herb](./speedrun_herb) | 1 | 2025-09-17 |
 | [speedrun_jeans_short](./speedrun_jeans_short) | 1 | 2025-09-15 |
@@ -39,5 +40,5 @@ This repository is a structured archive for personal best demos achieved in the 
 ---
 
 ### Statistics
-- Total Maps: **29**
-- Total Demos: **47**
+- Total Maps: **30**
+- Total Demos: **48**
