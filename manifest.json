@@ -1,5 +1,17 @@
 [
   {
+    "demFileHash": "84a1efc2e348730903bfd306a857bad1c60ba5ccefc5ff6e5875b8611587eb2e",
+    "uid": "VYU71ER8R",
+    "map": "speedrun_w00dfun",
+    "category": 5,
+    "time": 10312,
+    "playerSteamId": "STEAM_0:1:29970948",
+    "timestamp": "2025-10-29T04:36:39.000Z",
+    "zipFilename": "00010312_STEAM_0_1_29970948_20251029-043639.zip",
+    "path": "speedrun_w00dfun/00010312_STEAM_0_1_29970948_20251029-043639.zip",
+    "archivedAt": "2025-10-29T06:00:05.200Z"
+  },
+  {
     "demFileHash": "b93e554ea22d3111206a0a942602dec29aecc7162429610066c56857318271e7",
     "uid": "RIMBAZHSG",
     "map": "speedrun_voidsanctum_beta2",

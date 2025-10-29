@@ -34,11 +34,11 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_revived_odd_max](./speedrun_revived_odd_max) | 1 | 2025-09-15 |
 | [speedrun_several](./speedrun_several) | 1 | 2025-10-21 |
 | [speedrun_voidsanctum_beta2](./speedrun_voidsanctum_beta2) | 2 | 2025-10-26 |
-| [speedrun_w00dfun](./speedrun_w00dfun) | 5 | 2025-09-28 |
+| [speedrun_w00dfun](./speedrun_w00dfun) | 6 | 2025-10-29 |
 | [speedrun_w00dfun_nw](./speedrun_w00dfun_nw) | 1 | 2025-09-14 |
 
 ---
 
 ### Statistics
 - Total Maps: **30**
-- Total Demos: **50**
+- Total Demos: **51**
