@@ -8,6 +8,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | :--- | :---- | :--- |
 | [deathrun_arctic](./deathrun_arctic) | 3 | 2025-09-22 |
 | [deathrun_astro](./deathrun_astro) | 2 | 2025-09-22 |
+| [deathrun_chemical](./deathrun_chemical) | 1 | 2025-11-09 |
 | [deathrun_forest](./deathrun_forest) | 1 | 2025-09-18 |
 | [deathrun_forest2_final](./deathrun_forest2_final) | 2 | 2025-10-18 |
 | [deathrun_fusion_wild](./deathrun_fusion_wild) | 1 | 2025-11-01 |
@@ -42,5 +43,5 @@ This repository is a structured archive for personal best demos achieved in the 
 ---
 
 ### Statistics
-- Total Maps: **32**
-- Total Demos: **53**
+- Total Maps: **33**
+- Total Demos: **54**
