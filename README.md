@@ -13,7 +13,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [deathrun_forest2_final](./deathrun_forest2_final) | 2 | 2025-10-18 |
 | [deathrun_fusion_wild](./deathrun_fusion_wild) | 1 | 2025-11-01 |
 | [deathrun_oa_easy](./deathrun_oa_easy) | 1 | 2025-10-22 |
-| [speedrun_1000fps_battle](./speedrun_1000fps_battle) | 1 | 2025-09-30 |
+| [speedrun_1000fps_battle](./speedrun_1000fps_battle) | 2 | 2025-11-11 |
 | [speedrun_artakey_no_ramp](./speedrun_artakey_no_ramp) | 1 | 2025-10-11 |
 | [speedrun_chemical](./speedrun_chemical) | 1 | 2025-10-19 |
 | [speedrun_chemical_maxfps](./speedrun_chemical_maxfps) | 1 | 2025-09-23 |
@@ -45,4 +45,4 @@ This repository is a structured archive for personal best demos achieved in the 
 
 ### Statistics
 - Total Maps: **34**
-- Total Demos: **55**
+- Total Demos: **56**
