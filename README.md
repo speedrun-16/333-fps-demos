@@ -37,6 +37,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_r3x_final](./speedrun_r3x_final) | 3 | 2025-11-01 |
 | [speedrun_revived_odd_max](./speedrun_revived_odd_max) | 1 | 2025-09-15 |
 | [speedrun_several](./speedrun_several) | 1 | 2025-10-21 |
+| [speedrun_sqn](./speedrun_sqn) | 1 | 2025-11-15 |
 | [speedrun_triskelion_ruins_beta1](./speedrun_triskelion_ruins_beta1) | 1 | 2025-11-01 |
 | [speedrun_voidsanctum_beta2](./speedrun_voidsanctum_beta2) | 2 | 2025-10-26 |
 | [speedrun_w00dfun](./speedrun_w00dfun) | 6 | 2025-11-04 |
@@ -45,5 +46,5 @@ This repository is a structured archive for personal best demos achieved in the 
 ---
 
 ### Statistics
-- Total Maps: **35**
-- Total Demos: **59**
+- Total Maps: **36**
+- Total Demos: **60**
