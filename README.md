@@ -23,7 +23,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_evi_big_long](./speedrun_evi_big_long) | 1 | 2025-09-15 |
 | [speedrun_evidens](./speedrun_evidens) | 1 | 2025-10-05 |
 | [speedrun_faster](./speedrun_faster) | 1 | 2025-11-09 |
-| [speedrun_garden](./speedrun_garden) | 1 | 2025-10-23 |
+| [speedrun_garden](./speedrun_garden) | 2 | 2025-11-26 |
 | [speedrun_grasz_final](./speedrun_grasz_final) | 2 | 2025-11-21 |
 | [speedrun_herb](./speedrun_herb) | 1 | 2025-09-17 |
 | [speedrun_jeans_short](./speedrun_jeans_short) | 1 | 2025-09-15 |
@@ -37,7 +37,9 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_prezmik](./speedrun_prezmik) | 1 | 2025-10-19 |
 | [speedrun_pupsik](./speedrun_pupsik) | 2 | 2025-11-19 |
 | [speedrun_r3x_final](./speedrun_r3x_final) | 3 | 2025-11-01 |
+| [speedrun_retro_edition](./speedrun_retro_edition) | 1 | 2025-11-26 |
 | [speedrun_revived_odd_max](./speedrun_revived_odd_max) | 1 | 2025-09-15 |
+| [speedrun_runners](./speedrun_runners) | 1 | 2025-11-26 |
 | [speedrun_several](./speedrun_several) | 1 | 2025-10-21 |
 | [speedrun_sqn](./speedrun_sqn) | 1 | 2025-11-15 |
 | [speedrun_tr](./speedrun_tr) | 1 | 2025-11-20 |
@@ -49,5 +51,5 @@ This repository is a structured archive for personal best demos achieved in the 
 ---
 
 ### Statistics
-- Total Maps: **39**
-- Total Demos: **66**
+- Total Maps: **41**
+- Total Demos: **69**
