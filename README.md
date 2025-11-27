@@ -11,7 +11,9 @@ This repository is a structured archive for personal best demos achieved in the 
 | [deathrun_chemical](./deathrun_chemical) | 1 | 2025-11-09 |
 | [deathrun_forest](./deathrun_forest) | 1 | 2025-09-18 |
 | [deathrun_forest2_final](./deathrun_forest2_final) | 2 | 2025-10-18 |
-| [deathrun_fusion_wild](./deathrun_fusion_wild) | 1 | 2025-11-01 |
+| [deathrun_fusion_wild](./deathrun_fusion_wild) | 1 | 2025-11-27 |
+| [deathrun_magic](./deathrun_magic) | 1 | 2025-11-27 |
+| [deathrun_mars_salvation](./deathrun_mars_salvation) | 1 | 2025-11-27 |
 | [deathrun_oa_easy](./deathrun_oa_easy) | 1 | 2025-10-22 |
 | [speedrun_1000fps_battle](./speedrun_1000fps_battle) | 3 | 2025-11-19 |
 | [speedrun_artakey_no_ramp](./speedrun_artakey_no_ramp) | 1 | 2025-10-11 |
@@ -27,6 +29,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_garden](./speedrun_garden) | 2 | 2025-11-26 |
 | [speedrun_grasz_final](./speedrun_grasz_final) | 2 | 2025-11-21 |
 | [speedrun_herb](./speedrun_herb) | 1 | 2025-09-17 |
+| [speedrun_japierdole2](./speedrun_japierdole2) | 1 | 2025-11-27 |
 | [speedrun_jeans_short](./speedrun_jeans_short) | 1 | 2025-09-15 |
 | [speedrun_katozlandia](./speedrun_katozlandia) | 1 | 2025-11-17 |
 | [speedrun_mnogostrafe2](./speedrun_mnogostrafe2) | 1 | 2025-11-19 |
@@ -52,5 +55,5 @@ This repository is a structured archive for personal best demos achieved in the 
 ---
 
 ### Statistics
-- Total Maps: **42**
-- Total Demos: **70**
+- Total Maps: **45**
+- Total Demos: **73**
