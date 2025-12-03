@@ -1,5 +1,17 @@
 [
   {
+    "demFileHash": "9ce25051158b6f76b6b87df3f71a35449d2ad05e985b7f8ba1831bcc5b167c40",
+    "uid": "VV1SPBPVA",
+    "map": "speedrun_evidens",
+    "category": 5,
+    "time": 9198,
+    "playerSteamId": "STEAM_0:1:771348382",
+    "timestamp": "2025-12-02T19:00:42.000Z",
+    "zipFilename": "00009198_STEAM_0_1_771348382_20251202-190042.zip",
+    "path": "speedrun_evidens/00009198_STEAM_0_1_771348382_20251202-190042.zip",
+    "archivedAt": "2025-12-03T00:00:00.668Z"
+  },
+  {
     "demFileHash": "3e110ef87a132d17d0621d7772b757e73da4d62209af8d4723a5c4e099808862",
     "uid": "4SA1Z42GU",
     "map": "deathrun_mars_salvation",
