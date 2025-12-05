@@ -51,9 +51,11 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_voidsanctum_beta2](./speedrun_voidsanctum_beta2) | 2 | 2025-10-26 |
 | [speedrun_w00dfun](./speedrun_w00dfun) | 6 | 2025-11-18 |
 | [speedrun_w00dfun_nw](./speedrun_w00dfun_nw) | 1 | 2025-09-14 |
+| [speedrun_wex](./speedrun_wex) | 1 | 2025-12-05 |
+| [speedrun_yagrehsart_fix](./speedrun_yagrehsart_fix) | 1 | 2025-12-05 |
 
 ---
 
 ### Statistics
-- Total Maps: **45**
-- Total Demos: **76**
+- Total Maps: **47**
+- Total Demos: **78**
