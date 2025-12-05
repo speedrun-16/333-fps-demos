@@ -34,7 +34,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_katozlandia](./speedrun_katozlandia) | 1 | 2025-11-17 |
 | [speedrun_mnogostrafe2](./speedrun_mnogostrafe2) | 1 | 2025-11-19 |
 | [speedrun_muhaha](./speedrun_muhaha) | 1 | 2025-09-17 |
-| [speedrun_neocist](./speedrun_neocist) | 2 | 2025-11-05 |
+| [speedrun_neocist](./speedrun_neocist) | 3 | 2025-12-04 |
 | [speedrun_outside_estonia2](./speedrun_outside_estonia2) | 3 | 2025-09-20 |
 | [speedrun_poland](./speedrun_poland) | 1 | 2025-11-14 |
 | [speedrun_pool_simple](./speedrun_pool_simple) | 3 | 2025-09-16 |
@@ -56,4 +56,4 @@ This repository is a structured archive for personal best demos achieved in the 
 
 ### Statistics
 - Total Maps: **45**
-- Total Demos: **75**
+- Total Demos: **76**
