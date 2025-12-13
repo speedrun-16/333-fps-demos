@@ -31,7 +31,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_garden](./speedrun_garden) | 2 | 2025-11-26 |
 | [speedrun_grasz_final](./speedrun_grasz_final) | 2 | 2025-11-21 |
 | [speedrun_herb](./speedrun_herb) | 1 | 2025-09-17 |
-| [speedrun_insanity](./speedrun_insanity) | 1 | 2025-12-08 |
+| [speedrun_insanity](./speedrun_insanity) | 2 | 2025-12-13 |
 | [speedrun_japierdole2](./speedrun_japierdole2) | 1 | 2025-11-27 |
 | [speedrun_jeans_short](./speedrun_jeans_short) | 1 | 2025-09-15 |
 | [speedrun_katozlandia](./speedrun_katozlandia) | 1 | 2025-11-17 |
@@ -53,7 +53,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_tr](./speedrun_tr) | 1 | 2025-11-20 |
 | [speedrun_triskelion_ruins_beta1](./speedrun_triskelion_ruins_beta1) | 1 | 2025-11-01 |
 | [speedrun_voidsanctum_beta2](./speedrun_voidsanctum_beta2) | 2 | 2025-10-26 |
-| [speedrun_w00dfun](./speedrun_w00dfun) | 6 | 2025-11-18 |
+| [speedrun_w00dfun](./speedrun_w00dfun) | 7 | 2025-12-13 |
 | [speedrun_w00dfun_nw](./speedrun_w00dfun_nw) | 1 | 2025-09-14 |
 | [speedrun_wex](./speedrun_wex) | 1 | 2025-12-05 |
 | [speedrun_yagrehsart_fix](./speedrun_yagrehsart_fix) | 1 | 2025-12-05 |
@@ -62,4 +62,4 @@ This repository is a structured archive for personal best demos achieved in the 
 
 ### Statistics
 - Total Maps: **51**
-- Total Demos: **82**
+- Total Demos: **84**
