@@ -46,7 +46,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_r3x_final](./speedrun_r3x_final) | 3 | 2025-11-01 |
 | [speedrun_retro_edition](./speedrun_retro_edition) | 1 | 2025-11-26 |
 | [speedrun_revived_odd_max](./speedrun_revived_odd_max) | 1 | 2025-09-15 |
-| [speedrun_runners](./speedrun_runners) | 2 | 2025-12-03 |
+| [speedrun_runners](./speedrun_runners) | 2 | 2025-12-14 |
 | [speedrun_several](./speedrun_several) | 1 | 2025-10-21 |
 | [speedrun_several_trilogy](./speedrun_several_trilogy) | 1 | 2025-12-13 |
 | [speedrun_sqn](./speedrun_sqn) | 1 | 2025-11-15 |
