@@ -7,7 +7,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | Map Name | Demos | Last Updated |
 | :--- | :---- | :--- |
 | [de_dust](./de_dust) | 1 | 2025-12-19 |
-| [deathrun_arctic](./deathrun_arctic) | 3 | 2025-09-22 |
+| [deathrun_arctic](./deathrun_arctic) | 4 | 2025-12-20 |
 | [deathrun_astro](./deathrun_astro) | 2 | 2025-09-22 |
 | [deathrun_chemical](./deathrun_chemical) | 1 | 2025-11-09 |
 | [deathrun_forest](./deathrun_forest) | 1 | 2025-09-18 |
@@ -18,6 +18,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [deathrun_oa_easy](./deathrun_oa_easy) | 1 | 2025-10-22 |
 | [speedrun_1000fps_battle](./speedrun_1000fps_battle) | 3 | 2025-11-19 |
 | [speedrun_artakey_no_ramp](./speedrun_artakey_no_ramp) | 1 | 2025-10-11 |
+| [speedrun_calisto2k](./speedrun_calisto2k) | 1 | 2025-12-20 |
 | [speedrun_chemical](./speedrun_chemical) | 3 | 2025-11-12 |
 | [speedrun_chemical_maxfps](./speedrun_chemical_maxfps) | 1 | 2025-09-23 |
 | [speedrun_confusion2](./speedrun_confusion2) | 1 | 2025-09-15 |
@@ -62,5 +63,5 @@ This repository is a structured archive for personal best demos achieved in the 
 ---
 
 ### Statistics
-- Total Maps: **52**
-- Total Demos: **87**
+- Total Maps: **53**
+- Total Demos: **89**
