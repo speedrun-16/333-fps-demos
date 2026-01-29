@@ -1,5 +1,17 @@
 [
   {
+    "demFileHash": "e1447c8a4acd054d8d1778f800303b2d9beeeeee84644c3d07941c0f27b492fc",
+    "uid": "36WUYFWV5",
+    "map": "speedrun_pryda_v2",
+    "category": 5,
+    "time": 8936,
+    "playerSteamId": "STEAM_0:1:771348382",
+    "timestamp": "2026-01-28T19:01:32.000Z",
+    "zipFilename": "00008936_STEAM_0_1_771348382_20260128-190132.zip",
+    "path": "speedrun_pryda_v2/00008936_STEAM_0_1_771348382_20260128-190132.zip",
+    "archivedAt": "2026-01-29T00:00:05.924Z"
+  },
+  {
     "demFileHash": "a7eca80023537dc99348e260683080a3a831edb309f82c16673a403e1d374595",
     "uid": "IHVBZ31IF",
     "map": "speedrun_pupsik",
