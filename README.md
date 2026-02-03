@@ -45,7 +45,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_poland](./speedrun_poland) | 1 | 2025-11-14 |
 | [speedrun_pool_simple](./speedrun_pool_simple) | 3 | 2025-09-16 |
 | [speedrun_prezmik](./speedrun_prezmik) | 1 | 2025-10-19 |
-| [speedrun_pryda_v2](./speedrun_pryda_v2) | 3 | 2026-01-31 |
+| [speedrun_pryda_v2](./speedrun_pryda_v2) | 3 | 2026-02-03 |
 | [speedrun_pupsik](./speedrun_pupsik) | 3 | 2026-01-22 |
 | [speedrun_r3x_final](./speedrun_r3x_final) | 3 | 2025-11-01 |
 | [speedrun_ramp-master_ex](./speedrun_ramp-master_ex) | 1 | 2026-01-29 |
