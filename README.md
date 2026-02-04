@@ -62,7 +62,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_ukraine_beta](./speedrun_ukraine_beta) | 1 | 2026-02-01 |
 | [speedrun_utug2](./speedrun_utug2) | 1 | 2026-01-29 |
 | [speedrun_voidsanctum_beta2](./speedrun_voidsanctum_beta2) | 2 | 2025-10-26 |
-| [speedrun_w00dfun](./speedrun_w00dfun) | 8 | 2025-12-13 |
+| [speedrun_w00dfun](./speedrun_w00dfun) | 8 | 2026-02-04 |
 | [speedrun_w00dfun_nw](./speedrun_w00dfun_nw) | 1 | 2025-09-14 |
 | [speedrun_wex](./speedrun_wex) | 1 | 2025-12-05 |
 | [speedrun_yagrehsart_fix](./speedrun_yagrehsart_fix) | 1 | 2025-12-05 |
