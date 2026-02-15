@@ -16,7 +16,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [deathrun_magic](./deathrun_magic) | 1 | 2025-11-27 |
 | [deathrun_mars_salvation](./deathrun_mars_salvation) | 1 | 2025-11-27 |
 | [deathrun_oa_easy](./deathrun_oa_easy) | 1 | 2025-10-22 |
-| [speedrun_1000fps_battle](./speedrun_1000fps_battle) | 3 | 2025-11-19 |
+| [speedrun_1000fps_battle](./speedrun_1000fps_battle) | 4 | 2026-02-14 |
 | [speedrun_artakey_no_ramp](./speedrun_artakey_no_ramp) | 1 | 2025-10-11 |
 | [speedrun_calisto2k](./speedrun_calisto2k) | 1 | 2025-12-20 |
 | [speedrun_chemical](./speedrun_chemical) | 3 | 2025-11-12 |
@@ -71,4 +71,4 @@ This repository is a structured archive for personal best demos achieved in the 
 
 ### Statistics
 - Total Maps: **60**
-- Total Demos: **101**
+- Total Demos: **102**
