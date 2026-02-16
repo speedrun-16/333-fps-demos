@@ -1,5 +1,17 @@
 [
   {
+    "demFileHash": "f3bdf75982333be04ef2a655bef46baeba03f40925c0d0be142cfd7bd9c58d4f",
+    "uid": "BBH1ZKMTU",
+    "map": "deathrun_greenworld_v1",
+    "category": 5,
+    "time": 17518,
+    "playerSteamId": "STEAM_0:1:926467834",
+    "timestamp": "2026-02-16T15:00:22.000Z",
+    "zipFilename": "00017518_STEAM_0_1_926467834_20260216-150022.zip",
+    "path": "deathrun_greenworld_v1/00017518_STEAM_0_1_926467834_20260216-150022.zip",
+    "archivedAt": "2026-02-16T18:00:10.231Z"
+  },
+  {
     "demFileHash": "5c0e8c1447b8d18e3156ab8bc3716bceae9ed814b7f500bd93f3e5db416a8664",
     "uid": "G5LRB97YS",
     "map": "de_dust",
