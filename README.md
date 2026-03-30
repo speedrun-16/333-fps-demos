@@ -17,7 +17,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [deathrun_magic](./deathrun_magic) | 1 | 2025-11-27 |
 | [deathrun_mars_salvation](./deathrun_mars_salvation) | 1 | 2025-11-27 |
 | [deathrun_oa_easy](./deathrun_oa_easy) | 1 | 2025-10-22 |
-| [speedrun_1000fps_battle](./speedrun_1000fps_battle) | 4 | 2026-02-14 |
+| [speedrun_1000fps_battle](./speedrun_1000fps_battle) | 4 | 2026-03-30 |
 | [speedrun_artakey_no_ramp](./speedrun_artakey_no_ramp) | 1 | 2025-10-11 |
 | [speedrun_calisto2k](./speedrun_calisto2k) | 1 | 2025-12-20 |
 | [speedrun_chemical](./speedrun_chemical) | 3 | 2025-11-12 |
@@ -42,6 +42,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_mnogostrafe2](./speedrun_mnogostrafe2) | 1 | 2025-11-19 |
 | [speedrun_muhaha](./speedrun_muhaha) | 1 | 2025-09-17 |
 | [speedrun_neocist](./speedrun_neocist) | 3 | 2025-12-04 |
+| [speedrun_noob](./speedrun_noob) | 1 | 2026-03-30 |
 | [speedrun_outside_estonia2](./speedrun_outside_estonia2) | 3 | 2025-09-20 |
 | [speedrun_poland](./speedrun_poland) | 1 | 2025-11-14 |
 | [speedrun_pool_simple](./speedrun_pool_simple) | 3 | 2025-09-16 |
@@ -71,5 +72,5 @@ This repository is a structured archive for personal best demos achieved in the 
 ---
 
 ### Statistics
-- Total Maps: **61**
-- Total Demos: **105**
+- Total Maps: **62**
+- Total Demos: **106**
