@@ -1,15 +1,15 @@
 [
   {
-    "demFileHash": "f45b8b809778582661f14397ef797473ad8e773463f05f7cf0f43c489dd789d1",
-    "uid": "Z2LI2ZYQ1",
+    "demFileHash": "2e45060f22c24798ad9454ae33767ce806f4637f579b93ed89076d0e8fab7602",
+    "uid": "PKTF5FQ6C",
     "map": "speedrun_tr",
     "category": 5,
-    "time": 11402,
+    "time": 11371,
     "playerSteamId": "STEAM_0:1:771348382",
-    "timestamp": "2026-04-11T21:44:39.000Z",
-    "zipFilename": "00011402_STEAM_0_1_771348382_20260411-214439.zip",
-    "path": "speedrun_tr/00011402_STEAM_0_1_771348382_20260411-214439.zip",
-    "archivedAt": "2026-04-12T00:00:13.678Z"
+    "timestamp": "2026-04-12T19:43:04.000Z",
+    "zipFilename": "00011371_STEAM_0_1_771348382_20260412-194304.zip",
+    "path": "speedrun_tr/00011371_STEAM_0_1_771348382_20260412-194304.zip",
+    "archivedAt": "2026-04-13T00:00:00.609Z"
   },
   {
     "demFileHash": "600296c251a97059a222a0a4865933f3ea348055438404ce01d668b0e4cd5e07",
