@@ -43,7 +43,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_muhaha](./speedrun_muhaha) | 1 | 2025-09-17 |
 | [speedrun_neocist](./speedrun_neocist) | 3 | 2025-12-04 |
 | [speedrun_noob](./speedrun_noob) | 1 | 2026-03-30 |
-| [speedrun_outside_estonia2](./speedrun_outside_estonia2) | 3 | 2025-09-20 |
+| [speedrun_outside_estonia2](./speedrun_outside_estonia2) | 4 | 2026-04-16 |
 | [speedrun_poland](./speedrun_poland) | 1 | 2025-11-14 |
 | [speedrun_pool_simple](./speedrun_pool_simple) | 3 | 2025-09-16 |
 | [speedrun_prezmik](./speedrun_prezmik) | 1 | 2025-10-19 |
@@ -54,7 +54,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_record](./speedrun_record) | 1 | 2026-02-01 |
 | [speedrun_retro_edition](./speedrun_retro_edition) | 1 | 2025-11-26 |
 | [speedrun_revived_odd_max](./speedrun_revived_odd_max) | 1 | 2025-09-15 |
-| [speedrun_runners](./speedrun_runners) | 3 | 2026-02-18 |
+| [speedrun_runners](./speedrun_runners) | 4 | 2026-04-16 |
 | [speedrun_several](./speedrun_several) | 1 | 2025-10-21 |
 | [speedrun_several_trilogy](./speedrun_several_trilogy) | 1 | 2025-12-13 |
 | [speedrun_shiny](./speedrun_shiny) | 1 | 2026-02-01 |
@@ -73,4 +73,4 @@ This repository is a structured archive for personal best demos achieved in the 
 
 ### Statistics
 - Total Maps: **62**
-- Total Demos: **108**
+- Total Demos: **110**
