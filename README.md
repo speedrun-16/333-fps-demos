@@ -19,6 +19,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [deathrun_oa_easy](./deathrun_oa_easy) | 1 | 2025-10-22 |
 | [speedrun_1000fps_battle](./speedrun_1000fps_battle) | 4 | 2026-03-30 |
 | [speedrun_artakey_no_ramp](./speedrun_artakey_no_ramp) | 1 | 2026-04-21 |
+| [speedrun_aurea](./speedrun_aurea) | 1 | 2026-04-22 |
 | [speedrun_calisto2k](./speedrun_calisto2k) | 1 | 2025-12-20 |
 | [speedrun_chemical](./speedrun_chemical) | 5 | 2026-04-19 |
 | [speedrun_chemical_maxfps](./speedrun_chemical_maxfps) | 1 | 2025-09-23 |
@@ -72,5 +73,5 @@ This repository is a structured archive for personal best demos achieved in the 
 ---
 
 ### Statistics
-- Total Maps: **62**
-- Total Demos: **112**
+- Total Maps: **63**
+- Total Demos: **113**
