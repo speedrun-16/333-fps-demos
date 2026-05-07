@@ -26,7 +26,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_chemical_maxfps](./speedrun_chemical_maxfps) | 1 | 2025-09-23 |
 | [speedrun_confusion2](./speedrun_confusion2) | 1 | 2025-09-15 |
 | [speedrun_deceit](./speedrun_deceit) | 4 | 2025-10-18 |
-| [speedrun_easy_v1](./speedrun_easy_v1) | 3 | 2026-05-04 |
+| [speedrun_easy_v1](./speedrun_easy_v1) | 4 | 2026-05-06 |
 | [speedrun_eliterunnerz](./speedrun_eliterunnerz) | 1 | 2025-12-09 |
 | [speedrun_enbo](./speedrun_enbo) | 1 | 2025-12-10 |
 | [speedrun_evi_big_long](./speedrun_evi_big_long) | 1 | 2025-09-15 |
@@ -62,6 +62,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_shiny](./speedrun_shiny) | 1 | 2026-02-01 |
 | [speedrun_silent](./speedrun_silent) | 1 | 2026-04-28 |
 | [speedrun_sqn](./speedrun_sqn) | 1 | 2025-11-15 |
+| [speedrun_svet](./speedrun_svet) | 1 | 2026-05-06 |
 | [speedrun_tr](./speedrun_tr) | 4 | 2026-04-12 |
 | [speedrun_trasher2](./speedrun_trasher2) | 1 | 2026-05-03 |
 | [speedrun_triskelion_ruins_beta1](./speedrun_triskelion_ruins_beta1) | 1 | 2025-11-01 |
@@ -78,5 +79,5 @@ This repository is a structured archive for personal best demos achieved in the 
 ---
 
 ### Statistics
-- Total Maps: **68**
-- Total Demos: **121**
+- Total Maps: **69**
+- Total Demos: **123**
