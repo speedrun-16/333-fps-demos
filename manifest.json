@@ -1,5 +1,17 @@
 [
   {
+    "demFileHash": "aa25a909ad11247980302181347cec02ee2baeecbb5e3b708abe570c3a2463c6",
+    "uid": "QKUPDNBU4",
+    "map": "speedrun_retro_pro",
+    "category": 5,
+    "time": 9535,
+    "playerSteamId": "STEAM_0:1:771348382",
+    "timestamp": "2026-05-10T02:50:14.000Z",
+    "zipFilename": "00009535_STEAM_0_1_771348382_20260510-025014.zip",
+    "path": "speedrun_retro_pro/00009535_STEAM_0_1_771348382_20260510-025014.zip",
+    "archivedAt": "2026-05-10T06:00:07.843Z"
+  },
+  {
     "demFileHash": "d42fb07d53e88d4deaa8d7f4b989e3167644bb57ff89886343242575d91ed994",
     "uid": "3YENACE03",
     "map": "speedrun_bieber_maxfps",
