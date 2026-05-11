@@ -1,5 +1,17 @@
 [
   {
+    "demFileHash": "7de7d6e29c9c9d40a6ff3e549d72d14e9e9474887c7879e65b7976a68664398b",
+    "uid": "PCS4B1BUY",
+    "map": "speedrun_eliterunnerz",
+    "category": 5,
+    "time": 26346,
+    "playerSteamId": "STEAM_0:1:771348382",
+    "timestamp": "2026-05-11T11:31:20.000Z",
+    "zipFilename": "00026346_STEAM_0_1_771348382_20260511-113120.zip",
+    "path": "speedrun_eliterunnerz/00026346_STEAM_0_1_771348382_20260511-113120.zip",
+    "archivedAt": "2026-05-11T12:00:00.768Z"
+  },
+  {
     "demFileHash": "3ed999dbb0882c6c7ca2ce785fb66cdd616b1fb4c326012d5d7d4edc7b251f08",
     "uid": "NJC8PC7FW",
     "map": "speedrun_medium",
