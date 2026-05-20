@@ -48,7 +48,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_medium](./speedrun_medium) | 1 | 2026-05-10 |
 | [speedrun_mnogostrafe2](./speedrun_mnogostrafe2) | 1 | 2025-11-19 |
 | [speedrun_muhaha](./speedrun_muhaha) | 1 | 2025-09-17 |
-| [speedrun_neocist](./speedrun_neocist) | 3 | 2025-12-04 |
+| [speedrun_neocist](./speedrun_neocist) | 3 | 2026-05-19 |
 | [speedrun_noob](./speedrun_noob) | 1 | 2026-03-30 |
 | [speedrun_outside_estonia2](./speedrun_outside_estonia2) | 4 | 2026-04-16 |
 | [speedrun_phe3](./speedrun_phe3) | 1 | 2026-05-15 |
