@@ -57,7 +57,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_prezmik](./speedrun_prezmik) | 1 | 2025-10-19 |
 | [speedrun_pryda_v2](./speedrun_pryda_v2) | 3 | 2026-02-03 |
 | [speedrun_pupsik](./speedrun_pupsik) | 3 | 2026-01-22 |
-| [speedrun_r3x_final](./speedrun_r3x_final) | 3 | 2025-11-01 |
+| [speedrun_r3x_final](./speedrun_r3x_final) | 4 | 2026-05-28 |
 | [speedrun_r3x_II](./speedrun_r3x_II) | 1 | 2026-05-24 |
 | [speedrun_ramp-master_ex](./speedrun_ramp-master_ex) | 1 | 2026-01-29 |
 | [speedrun_record](./speedrun_record) | 1 | 2026-02-01 |
@@ -89,4 +89,4 @@ This repository is a structured archive for personal best demos achieved in the 
 
 ### Statistics
 - Total Maps: **78**
-- Total Demos: **138**
+- Total Demos: **139**
