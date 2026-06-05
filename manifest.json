@@ -1,5 +1,17 @@
 [
   {
+    "demFileHash": "b8f9a818411269f67a58f589a1f87a329e3967dd65d04810b5284304f0a98795",
+    "uid": "8UJMZD5X8",
+    "map": "speedrun_toni",
+    "category": 5,
+    "time": 9929,
+    "playerSteamId": "STEAM_0:1:87291981",
+    "timestamp": "2026-06-05T17:57:24.000Z",
+    "zipFilename": "00009929_STEAM_0_1_87291981_20260605-175724.zip",
+    "path": "speedrun_toni/00009929_STEAM_0_1_87291981_20260605-175724.zip",
+    "archivedAt": "2026-06-05T18:00:00.810Z"
+  },
+  {
     "demFileHash": "599903c6ff6cbb7f832a109051ca71d7f44fbc56da5812df7f20f4b2bca895a4",
     "uid": "D41MB9I2O",
     "map": "deathrun_linea",
