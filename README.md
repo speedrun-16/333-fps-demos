@@ -24,6 +24,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_artakey_no_ramp](./speedrun_artakey_no_ramp) | 1 | 2026-04-21 |
 | [speedrun_aurea](./speedrun_aurea) | 1 | 2026-04-22 |
 | [speedrun_bieber_maxfps](./speedrun_bieber_maxfps) | 1 | 2026-05-09 |
+| [speedrun_blackblue2](./speedrun_blackblue2) | 1 | 2026-06-07 |
 | [speedrun_calisto2k](./speedrun_calisto2k) | 1 | 2025-12-20 |
 | [speedrun_chemical](./speedrun_chemical) | 5 | 2026-04-19 |
 | [speedrun_chemical_maxfps](./speedrun_chemical_maxfps) | 1 | 2025-09-23 |
@@ -57,8 +58,9 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_poland](./speedrun_poland) | 1 | 2025-11-14 |
 | [speedrun_pool_simple](./speedrun_pool_simple) | 3 | 2026-05-10 |
 | [speedrun_prezmik](./speedrun_prezmik) | 1 | 2025-10-19 |
+| [speedrun_projetocs2](./speedrun_projetocs2) | 1 | 2026-06-07 |
 | [speedrun_pryda_v2](./speedrun_pryda_v2) | 3 | 2026-02-03 |
-| [speedrun_pupsik](./speedrun_pupsik) | 3 | 2026-01-22 |
+| [speedrun_pupsik](./speedrun_pupsik) | 4 | 2026-06-07 |
 | [speedrun_r3x_final](./speedrun_r3x_final) | 4 | 2026-05-28 |
 | [speedrun_r3x_II](./speedrun_r3x_II) | 1 | 2026-05-24 |
 | [speedrun_ramp-master_ex](./speedrun_ramp-master_ex) | 1 | 2026-01-29 |
@@ -75,6 +77,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_svet](./speedrun_svet) | 1 | 2026-05-06 |
 | [speedrun_toni](./speedrun_toni) | 1 | 2026-06-05 |
 | [speedrun_tr](./speedrun_tr) | 5 | 2026-06-04 |
+| [speedrun_tracer](./speedrun_tracer) | 1 | 2026-06-07 |
 | [speedrun_trasher2](./speedrun_trasher2) | 1 | 2026-05-03 |
 | [speedrun_triskelion_ruins_beta1](./speedrun_triskelion_ruins_beta1) | 1 | 2025-11-01 |
 | [speedrun_ukraine_beta](./speedrun_ukraine_beta) | 1 | 2026-02-01 |
@@ -91,5 +94,5 @@ This repository is a structured archive for personal best demos achieved in the 
 ---
 
 ### Statistics
-- Total Maps: **81**
-- Total Demos: **146**
+- Total Maps: **84**
+- Total Demos: **150**
