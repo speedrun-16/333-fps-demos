@@ -1,0 +1,35 @@
+{
+  "map": "speedrun_aurea",
+  "updatedAt": "2026-06-19T05:52:24.509704Z",
+  "runs": [
+    {
+      "uid": "7L78CBWLR",
+      "rid": 43760,
+      "hash": "4916f4bf650dfb103893ad8aaa1608d86ece53b2bfa0a59fbf84a9e0fc2eca95",
+      "t": 21382,
+      "sid": "STEAM_0:1:771348382",
+      "at": "2026-04-22T13:19:24Z",
+      "zip": "00021382_STEAM_0_1_771348382_20260422-131924.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_aurea-20260422-#7L78CBWLR.analysis.json",
+          "off": 78,
+          "size": 813863
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_aurea-20260422-#7L78CBWLR.dem",
+          "off": 814009,
+          "size": 285954
+        },
+        {
+          "type": "replay",
+          "name": "43760.replay.xz",
+          "off": 1100008,
+          "size": 110708
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "map": "speedrun_mnogostrafe2",
+  "updatedAt": "2026-06-19T05:52:24.509704Z",
+  "runs": [
+    {
+      "uid": "DUC899NUU",
+      "rid": 16119,
+      "hash": "0ae3b5e73fa6e06e02cbf4c9d9deddbe98ac9fe5de9045f336445825eed2963d",
+      "t": 13125,
+      "sid": "STEAM_0:1:796767048",
+      "at": "2025-11-19T17:45:06Z",
+      "zip": "00013125_STEAM_0_1_796767048_20251119-174506.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_mnogostrafe2-20251119-#DUC899NUU.analysis.json",
+          "off": 85,
+          "size": 534777
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_mnogostrafe2-20251119-#DUC899NUU.dem",
+          "off": 534937,
+          "size": 185313
+        },
+        {
+          "type": "replay",
+          "name": "16119.replay.xz",
+          "off": 720295,
+          "size": 72912
+        }
+      ]
+    }
+  ]
+}

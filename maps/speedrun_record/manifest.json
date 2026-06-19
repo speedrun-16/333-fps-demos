@@ -1,0 +1,35 @@
+{
+  "map": "speedrun_record",
+  "updatedAt": "2026-06-19T05:52:24.509704Z",
+  "runs": [
+    {
+      "uid": "3ZZZYJJAY",
+      "rid": 31648,
+      "hash": "bc5077fc70d5b83d43e7793706d45a2a7434fa9c5d02425078ef628c9de337d7",
+      "t": 10466,
+      "sid": "STEAM_0:1:499355704",
+      "at": "2026-02-01T15:23:25Z",
+      "zip": "00010466_STEAM_0_1_499355704_20260201-152325.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_record-20260201-#3ZZZYJJAY.analysis.json",
+          "off": 79,
+          "size": 478326
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_record-20260201-#3ZZZYJJAY.dem",
+          "off": 478474,
+          "size": 178673
+        },
+        {
+          "type": "replay",
+          "name": "31648.replay.xz",
+          "off": 657192,
+          "size": 53828
+        }
+      ]
+    }
+  ]
+}

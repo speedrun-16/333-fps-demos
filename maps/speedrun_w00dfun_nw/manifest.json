@@ -1,0 +1,35 @@
+{
+  "map": "speedrun_w00dfun_nw",
+  "updatedAt": "2026-06-19T05:52:24.509704Z",
+  "runs": [
+    {
+      "uid": "ARFY95BCK",
+      "rid": 14,
+      "hash": "601be0934dbd540ba22395a01685d31d58c59d57b4aa1b58e2f09cc7a259eefa",
+      "t": 10774,
+      "sid": "STEAM_0:1:771348382",
+      "at": "2025-09-14T07:19:11Z",
+      "zip": "00010774_STEAM_0_1_771348382_20250914-071911.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_w00dfun_nw-20250914-#ARFY95BCK.analysis.json",
+          "off": 83,
+          "size": 553291
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_w00dfun_nw-20250914-#ARFY95BCK.dem",
+          "off": 553447,
+          "size": 177751
+        },
+        {
+          "type": "replay",
+          "name": "14.replay.xz",
+          "off": 731240,
+          "size": 58600
+        }
+      ]
+    }
+  ]
+}

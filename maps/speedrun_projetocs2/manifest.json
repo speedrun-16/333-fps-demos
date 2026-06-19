@@ -1,0 +1,35 @@
+{
+  "map": "speedrun_projetocs2",
+  "updatedAt": "2026-06-19T05:52:24.509704Z",
+  "runs": [
+    {
+      "uid": "CVIL5YF33",
+      "rid": 61816,
+      "hash": "cc9baa6053c463680c9f8aecadbf58d1e892507f9d88307f57da9d34c51735a7",
+      "t": 19025,
+      "sid": "STEAM_0:0:193002961",
+      "at": "2026-06-07T12:59:35Z",
+      "zip": "00019025_STEAM_0_0_193002961_20260607-125935.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_projetocs2-20260607-#CVIL5YF33.analysis.json",
+          "off": 83,
+          "size": 744635
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_projetocs2-20260607-#CVIL5YF33.dem",
+          "off": 744791,
+          "size": 243470
+        },
+        {
+          "type": "replay",
+          "name": "61816.replay.xz",
+          "off": 988306,
+          "size": 93328
+        }
+      ]
+    }
+  ]
+}

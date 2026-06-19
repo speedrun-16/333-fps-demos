@@ -1,0 +1,35 @@
+{
+  "map": "speedrun_svet",
+  "updatedAt": "2026-06-19T05:52:24.509704Z",
+  "runs": [
+    {
+      "uid": "GN7TOOOMF",
+      "rid": 49333,
+      "hash": "740502c0671ee43d891ea98633dae5fc445f11f2fbb7a6a97f5643e07f2a3522",
+      "t": 13173,
+      "sid": "STEAM_0:1:87291981",
+      "at": "2026-05-06T19:43:15Z",
+      "zip": "00013173_STEAM_0_1_87291981_20260506-194315.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_svet-20260506-#GN7TOOOMF.analysis.json",
+          "off": 77,
+          "size": 527973
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_svet-20260506-#GN7TOOOMF.dem",
+          "off": 528117,
+          "size": 171159
+        },
+        {
+          "type": "replay",
+          "name": "49333.replay.xz",
+          "off": 699321,
+          "size": 69080
+        }
+      ]
+    }
+  ]
+}

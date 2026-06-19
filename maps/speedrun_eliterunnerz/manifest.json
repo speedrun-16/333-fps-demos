@@ -1,0 +1,93 @@
+{
+  "map": "speedrun_eliterunnerz",
+  "updatedAt": "2026-06-19T05:52:24.509704Z",
+  "runs": [
+    {
+      "uid": "PCS4B1BUY",
+      "rid": 51625,
+      "hash": "7de7d6e29c9c9d40a6ff3e549d72d14e9e9474887c7879e65b7976a68664398b",
+      "t": 26346,
+      "sid": "STEAM_0:1:771348382",
+      "at": "2026-05-11T11:31:20Z",
+      "zip": "00026346_STEAM_0_1_771348382_20260511-113120.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_eliterunnerz-20260511-#PCS4B1BUY.analysis.json",
+          "off": 85,
+          "size": 969708
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_eliterunnerz-20260511-#PCS4B1BUY.dem",
+          "off": 969868,
+          "size": 343753
+        },
+        {
+          "type": "replay",
+          "name": "51625.replay.xz",
+          "off": 1313666,
+          "size": 138784
+        }
+      ]
+    },
+    {
+      "uid": "YCBBVW2PB",
+      "rid": 20936,
+      "hash": "b69a13f45b2bff56afe8f53c8a2e08a91735e2d59f4c995862c27422f84ffe68",
+      "t": 27223,
+      "sid": "STEAM_0:1:461671282",
+      "at": "2025-12-09T14:40:48Z",
+      "zip": "00027223_STEAM_0_1_461671282_20251209-144048.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_eliterunnerz-20251209-#YCBBVW2PB.analysis.json",
+          "off": 85,
+          "size": 986144
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_eliterunnerz-20251209-#YCBBVW2PB.dem",
+          "off": 986304,
+          "size": 346725
+        },
+        {
+          "type": "replay",
+          "name": "20936.replay.xz",
+          "off": 1333074,
+          "size": 143976
+        }
+      ]
+    },
+    {
+      "uid": "ZJNYZIR9V",
+      "rid": 60252,
+      "hash": "2a18d528a1e093ce2580df9904355febb1b5b64df9b9e135ec7a970b3d34aa8b",
+      "t": 37150,
+      "sid": "STEAM_0:0:193002961",
+      "at": "2026-06-02T07:20:56Z",
+      "zip": "00037150_STEAM_0_0_193002961_20260602-072056.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_eliterunnerz-20260602-#ZJNYZIR9V.analysis.json",
+          "off": 85,
+          "size": 1352439
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_eliterunnerz-20260602-#ZJNYZIR9V.dem",
+          "off": 1352599,
+          "size": 462043
+        },
+        {
+          "type": "replay",
+          "name": "60252.replay.xz",
+          "off": 1814687,
+          "size": 186532
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "map": "deathrun_bieber_f",
+  "updatedAt": "2026-06-19T05:52:24.509704Z",
+  "runs": [
+    {
+      "uid": "7F3S7MY5D",
+      "rid": 48777,
+      "hash": "5b4d5ef8a2dbf6c27469fe00db10b63a65ace80c19f8706a92798f8895364ca7",
+      "t": 11553,
+      "sid": "STEAM_0:1:87291981",
+      "at": "2026-05-05T19:18:26Z",
+      "zip": "00011553_STEAM_0_1_87291981_20260505-191826.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "deathrun_bieber_f-20260505-#7F3S7MY5D.analysis.json",
+          "off": 81,
+          "size": 511852
+        },
+        {
+          "type": "dem",
+          "name": "deathrun_bieber_f-20260505-#7F3S7MY5D.dem",
+          "off": 512004,
+          "size": 163288
+        },
+        {
+          "type": "replay",
+          "name": "48777.replay.xz",
+          "off": 675337,
+          "size": 63384
+        }
+      ]
+    }
+  ]
+}

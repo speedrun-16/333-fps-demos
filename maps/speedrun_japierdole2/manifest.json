@@ -1,0 +1,35 @@
+{
+  "map": "speedrun_japierdole2",
+  "updatedAt": "2026-06-19T05:52:24.509704Z",
+  "runs": [
+    {
+      "uid": "UQRU59NZ6",
+      "rid": 18054,
+      "hash": "f331348c4995884ce4523f7ada22579251431f28c079e2f3556d46014d4f2957",
+      "t": 22119,
+      "sid": "STEAM_0:1:461671282",
+      "at": "2025-11-27T12:37:30Z",
+      "zip": "00022119_STEAM_0_1_461671282_20251127-123730.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_japierdole2-20251127-#UQRU59NZ6.analysis.json",
+          "off": 84,
+          "size": 806352
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_japierdole2-20251127-#UQRU59NZ6.dem",
+          "off": 806510,
+          "size": 255706
+        },
+        {
+          "type": "replay",
+          "name": "18054.replay.xz",
+          "off": 1062261,
+          "size": 100980
+        }
+      ]
+    }
+  ]
+}

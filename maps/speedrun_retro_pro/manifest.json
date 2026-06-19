@@ -1,0 +1,35 @@
+{
+  "map": "speedrun_retro_pro",
+  "updatedAt": "2026-06-19T05:52:24.509704Z",
+  "runs": [
+    {
+      "uid": "QKUPDNBU4",
+      "rid": 50776,
+      "hash": "aa25a909ad11247980302181347cec02ee2baeecbb5e3b708abe570c3a2463c6",
+      "t": 9535,
+      "sid": "STEAM_0:1:771348382",
+      "at": "2026-05-10T02:50:14Z",
+      "zip": "00009535_STEAM_0_1_771348382_20260510-025014.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_retro_pro-20260510-#QKUPDNBU4.analysis.json",
+          "off": 82,
+          "size": 405611
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_retro_pro-20260510-#QKUPDNBU4.dem",
+          "off": 405765,
+          "size": 152135
+        },
+        {
+          "type": "replay",
+          "name": "50776.replay.xz",
+          "off": 557945,
+          "size": 53412
+        }
+      ]
+    }
+  ]
+}

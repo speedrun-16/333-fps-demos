@@ -1,0 +1,35 @@
+{
+  "map": "deathrun_mars_salvation",
+  "updatedAt": "2026-06-19T05:52:24.509704Z",
+  "runs": [
+    {
+      "uid": "4SA1Z42GU",
+      "rid": 18057,
+      "hash": "3e110ef87a132d17d0621d7772b757e73da4d62209af8d4723a5c4e099808862",
+      "t": 11398,
+      "sid": "STEAM_0:1:461671282",
+      "at": "2025-11-27T13:22:34Z",
+      "zip": "00011398_STEAM_0_1_461671282_20251127-132234.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "deathrun_mars_salvation-20251127-#4SA1Z42GU.analysis.json",
+          "off": 87,
+          "size": 482105
+        },
+        {
+          "type": "dem",
+          "name": "deathrun_mars_salvation-20251127-#4SA1Z42GU.dem",
+          "off": 482269,
+          "size": 178491
+        },
+        {
+          "type": "replay",
+          "name": "18057.replay.xz",
+          "off": 660805,
+          "size": 57508
+        }
+      ]
+    }
+  ]
+}

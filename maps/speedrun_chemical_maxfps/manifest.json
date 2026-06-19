@@ -1,0 +1,35 @@
+{
+  "map": "speedrun_chemical_maxfps",
+  "updatedAt": "2026-06-19T05:52:24.509704Z",
+  "runs": [
+    {
+      "uid": "1W76FSI8T",
+      "rid": 5012,
+      "hash": "b1df10b49f1a34d8400bf244d61750f797638001f4c890286751ccb8aebcae29",
+      "t": 7740,
+      "sid": "STEAM_0:1:29970948",
+      "at": "2025-09-23T05:34:56Z",
+      "zip": "00007740_STEAM_0_1_29970948_20250923-053456.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_chemical_maxfps-20250923-#1W76FSI8T.analysis.json",
+          "off": 88,
+          "size": 377772
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_chemical_maxfps-20250923-#1W76FSI8T.dem",
+          "off": 377938,
+          "size": 134595
+        },
+        {
+          "type": "replay",
+          "name": "5012.replay.xz",
+          "off": 512577,
+          "size": 42480
+        }
+      ]
+    }
+  ]
+}

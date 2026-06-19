@@ -1,0 +1,35 @@
+{
+  "map": "speedrun_poland",
+  "updatedAt": "2026-06-19T05:52:24.509704Z",
+  "runs": [
+    {
+      "uid": "2X8XQE8BA",
+      "rid": 14795,
+      "hash": "f44dc88a11e13b442c2397972c64de659b2e724e2b85765db054686f9c6c293a",
+      "t": 12419,
+      "sid": "STEAM_0:1:771348382",
+      "at": "2025-11-14T16:46:50Z",
+      "zip": "00012419_STEAM_0_1_771348382_20251114-164650.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_poland-20251114-#2X8XQE8BA.analysis.json",
+          "off": 79,
+          "size": 510097
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_poland-20251114-#2X8XQE8BA.dem",
+          "off": 510245,
+          "size": 165707
+        },
+        {
+          "type": "replay",
+          "name": "14795.replay.xz",
+          "off": 675997,
+          "size": 58652
+        }
+      ]
+    }
+  ]
+}

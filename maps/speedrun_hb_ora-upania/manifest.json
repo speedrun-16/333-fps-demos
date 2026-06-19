@@ -1,0 +1,35 @@
+{
+  "map": "speedrun_hb_ora-upania",
+  "updatedAt": "2026-06-19T05:52:24.509704Z",
+  "runs": [
+    {
+      "uid": "PAX3WTA73",
+      "rid": 60073,
+      "hash": "9323f026d2c2deffb0a2ad9127c345528d6f5ffff1accecc3298d262d4771f08",
+      "t": 22822,
+      "sid": "STEAM_0:1:87291981",
+      "at": "2026-06-01T16:46:11Z",
+      "zip": "00022822_STEAM_0_1_87291981_20260601-164611.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_hb_ora-upania-20260601-#PAX3WTA73.analysis.json",
+          "off": 86,
+          "size": 821304
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_hb_ora-upania-20260601-#PAX3WTA73.dem",
+          "off": 821466,
+          "size": 253654
+        },
+        {
+          "type": "replay",
+          "name": "60073.replay.xz",
+          "off": 1075165,
+          "size": 113144
+        }
+      ]
+    }
+  ]
+}

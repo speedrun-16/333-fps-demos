@@ -1,0 +1,35 @@
+{
+  "map": "deathrun_greenworld_v1",
+  "updatedAt": "2026-06-19T05:52:24.509704Z",
+  "runs": [
+    {
+      "uid": "BBH1ZKMTU",
+      "rid": 33296,
+      "hash": "f3bdf75982333be04ef2a655bef46baeba03f40925c0d0be142cfd7bd9c58d4f",
+      "t": 17518,
+      "sid": "STEAM_0:1:926467834",
+      "at": "2026-02-16T15:00:22Z",
+      "zip": "00017518_STEAM_0_1_926467834_20260216-150022.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "deathrun_greenworld_v1-20260216-#BBH1ZKMTU.analysis.json",
+          "off": 86,
+          "size": 520107
+        },
+        {
+          "type": "dem",
+          "name": "deathrun_greenworld_v1-20260216-#BBH1ZKMTU.dem",
+          "off": 520269,
+          "size": 221054
+        },
+        {
+          "type": "replay",
+          "name": "33296.replay.xz",
+          "off": 741368,
+          "size": 73768
+        }
+      ]
+    }
+  ]
+}

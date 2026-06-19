@@ -1,0 +1,35 @@
+{
+  "map": "speedrun_prezmik",
+  "updatedAt": "2026-06-19T05:52:24.509704Z",
+  "runs": [
+    {
+      "uid": "VHO9S8A65",
+      "rid": 10335,
+      "hash": "4864119041cd5806bb11dbe51de89f2d92279581fff879651f656c7e764885c0",
+      "t": 11402,
+      "sid": "STEAM_0:0:576706174",
+      "at": "2025-10-19T07:42:28Z",
+      "zip": "00011402_STEAM_0_0_576706174_20251019-074228.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_prezmik-20251019-#VHO9S8A65.analysis.json",
+          "off": 80,
+          "size": 477731
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_prezmik-20251019-#VHO9S8A65.dem",
+          "off": 477881,
+          "size": 161607
+        },
+        {
+          "type": "replay",
+          "name": "10335.replay.xz",
+          "off": 639533,
+          "size": 58056
+        }
+      ]
+    }
+  ]
+}

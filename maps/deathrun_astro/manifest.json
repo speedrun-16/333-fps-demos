@@ -1,0 +1,64 @@
+{
+  "map": "deathrun_astro",
+  "updatedAt": "2026-06-19T05:52:24.509704Z",
+  "runs": [
+    {
+      "uid": "UV3GLSZEZ",
+      "rid": 4877,
+      "hash": "ca0d0333f8935ca64147ec36339b2fe4750159e2bea1ce6664d8462a39cbe4b8",
+      "t": 7292,
+      "sid": "STEAM_0:1:926467834",
+      "at": "2025-09-22T20:50:04Z",
+      "zip": "00007292_STEAM_0_1_926467834_20250922-205004.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "deathrun_astro-20250922-#UV3GLSZEZ.analysis.json",
+          "off": 78,
+          "size": 466223
+        },
+        {
+          "type": "dem",
+          "name": "deathrun_astro-20250922-#UV3GLSZEZ.dem",
+          "off": 466369,
+          "size": 175780
+        },
+        {
+          "type": "replay",
+          "name": "4877.replay.xz",
+          "off": 642193,
+          "size": 43480
+        }
+      ]
+    },
+    {
+      "uid": "RPK7YX4VZ",
+      "rid": 4872,
+      "hash": "6a8ea26a6c9eba152f92bd58d3043edeef87c4f9fe3efb4f545c395361b86c81",
+      "t": 9014,
+      "sid": "STEAM_0:0:1181305",
+      "at": "2025-09-22T20:46:59Z",
+      "zip": "00009014_STEAM_0_0_1181305_20250922-204659.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "deathrun_astro-20250922-#RPK7YX4VZ.analysis.json",
+          "off": 78,
+          "size": 614311
+        },
+        {
+          "type": "dem",
+          "name": "deathrun_astro-20250922-#RPK7YX4VZ.dem",
+          "off": 614457,
+          "size": 203126
+        },
+        {
+          "type": "replay",
+          "name": "4872.replay.xz",
+          "off": 817627,
+          "size": 51840
+        }
+      ]
+    }
+  ]
+}

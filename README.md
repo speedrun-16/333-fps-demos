@@ -1,98 +1,23 @@
-# Category Archive: 333 FPS
+# 333 FPS Demo Archive
 
-This repository is a structured archive for personal best demos achieved in the **333 FPS** category.
+Personal best demo archive for the 333 FPS category.
 
-## Map List
+## Statistics
 
-| Map Name | Demos | Last Updated |
-| :--- | :---- | :--- |
-| [de_dust](./de_dust) | 3 | 2026-05-27 |
-| [deathrun_arctic](./deathrun_arctic) | 4 | 2025-12-20 |
-| [deathrun_astro](./deathrun_astro) | 2 | 2025-09-22 |
-| [deathrun_bieber_f](./deathrun_bieber_f) | 1 | 2026-05-05 |
-| [deathrun_chemical](./deathrun_chemical) | 1 | 2025-11-09 |
-| [deathrun_forest](./deathrun_forest) | 1 | 2025-09-18 |
-| [deathrun_forest2_final](./deathrun_forest2_final) | 2 | 2025-10-18 |
-| [deathrun_fusion_wild](./deathrun_fusion_wild) | 1 | 2025-11-27 |
-| [deathrun_greenworld_v1](./deathrun_greenworld_v1) | 1 | 2026-02-16 |
-| [deathrun_linea](./deathrun_linea) | 1 | 2026-06-04 |
-| [deathrun_magic](./deathrun_magic) | 1 | 2025-11-27 |
-| [deathrun_mars_salvation](./deathrun_mars_salvation) | 1 | 2025-11-27 |
-| [deathrun_oa_easy](./deathrun_oa_easy) | 1 | 2025-10-22 |
-| [deathrun_w00dfun](./deathrun_w00dfun) | 1 | 2026-05-08 |
-| [speedrun_1000fps_battle](./speedrun_1000fps_battle) | 7 | 2026-06-01 |
-| [speedrun_artakey_no_ramp](./speedrun_artakey_no_ramp) | 1 | 2026-04-21 |
-| [speedrun_aurea](./speedrun_aurea) | 1 | 2026-04-22 |
-| [speedrun_bieber_maxfps](./speedrun_bieber_maxfps) | 1 | 2026-05-09 |
-| [speedrun_blackblue2](./speedrun_blackblue2) | 1 | 2026-06-07 |
-| [speedrun_calisto2k](./speedrun_calisto2k) | 1 | 2025-12-20 |
-| [speedrun_chemical](./speedrun_chemical) | 5 | 2026-04-19 |
-| [speedrun_chemical_maxfps](./speedrun_chemical_maxfps) | 1 | 2025-09-23 |
-| [speedrun_confusion2](./speedrun_confusion2) | 1 | 2025-09-15 |
-| [speedrun_deceit](./speedrun_deceit) | 5 | 2026-05-08 |
-| [speedrun_easy_v1](./speedrun_easy_v1) | 4 | 2026-05-06 |
-| [speedrun_eliterunnerz](./speedrun_eliterunnerz) | 3 | 2026-06-02 |
-| [speedrun_enbo](./speedrun_enbo) | 1 | 2025-12-10 |
-| [speedrun_euphoria](./speedrun_euphoria) | 1 | 2026-05-19 |
-| [speedrun_evi_big_long](./speedrun_evi_big_long) | 2 | 2026-05-17 |
-| [speedrun_evidens](./speedrun_evidens) | 2 | 2026-04-30 |
-| [speedrun_evidens_big](./speedrun_evidens_big) | 1 | 2026-05-17 |
-| [speedrun_evidens_editut_2021](./speedrun_evidens_editut_2021) | 1 | 2025-11-26 |
-| [speedrun_faster](./speedrun_faster) | 1 | 2025-11-09 |
-| [speedrun_garden](./speedrun_garden) | 2 | 2025-11-26 |
-| [speedrun_grasz_final](./speedrun_grasz_final) | 3 | 2026-04-10 |
-| [speedrun_hb_ora-upania](./speedrun_hb_ora-upania) | 1 | 2026-06-01 |
-| [speedrun_herb](./speedrun_herb) | 1 | 2025-09-17 |
-| [speedrun_insanity](./speedrun_insanity) | 2 | 2025-12-13 |
-| [speedrun_japierdole2](./speedrun_japierdole2) | 1 | 2025-11-27 |
-| [speedrun_jeans_short](./speedrun_jeans_short) | 2 | 2026-05-17 |
-| [speedrun_joker1](./speedrun_joker1) | 1 | 2026-02-01 |
-| [speedrun_katozlandia](./speedrun_katozlandia) | 1 | 2025-11-17 |
-| [speedrun_medium](./speedrun_medium) | 1 | 2026-05-10 |
-| [speedrun_mnogostrafe2](./speedrun_mnogostrafe2) | 1 | 2025-11-19 |
-| [speedrun_muhaha](./speedrun_muhaha) | 1 | 2025-09-17 |
-| [speedrun_neocist](./speedrun_neocist) | 3 | 2026-05-19 |
-| [speedrun_noob](./speedrun_noob) | 2 | 2026-06-04 |
-| [speedrun_outside_estonia2](./speedrun_outside_estonia2) | 4 | 2026-04-16 |
-| [speedrun_phe3](./speedrun_phe3) | 1 | 2026-05-15 |
-| [speedrun_poland](./speedrun_poland) | 1 | 2025-11-14 |
-| [speedrun_pool_simple](./speedrun_pool_simple) | 3 | 2026-05-10 |
-| [speedrun_prezmik](./speedrun_prezmik) | 1 | 2025-10-19 |
-| [speedrun_projetocs2](./speedrun_projetocs2) | 1 | 2026-06-07 |
-| [speedrun_pryda_v2](./speedrun_pryda_v2) | 3 | 2026-02-03 |
-| [speedrun_pupsik](./speedrun_pupsik) | 4 | 2026-06-07 |
-| [speedrun_r3x_final](./speedrun_r3x_final) | 4 | 2026-05-28 |
-| [speedrun_r3x_II](./speedrun_r3x_II) | 1 | 2026-05-24 |
-| [speedrun_ramp-master_ex](./speedrun_ramp-master_ex) | 1 | 2026-01-29 |
-| [speedrun_record](./speedrun_record) | 1 | 2026-02-01 |
-| [speedrun_retro_edition](./speedrun_retro_edition) | 1 | 2025-11-26 |
-| [speedrun_retro_pro](./speedrun_retro_pro) | 1 | 2026-05-10 |
-| [speedrun_revived_odd_max](./speedrun_revived_odd_max) | 1 | 2025-09-15 |
-| [speedrun_runners](./speedrun_runners) | 4 | 2026-04-16 |
-| [speedrun_several](./speedrun_several) | 2 | 2026-05-09 |
-| [speedrun_several_trilogy](./speedrun_several_trilogy) | 1 | 2025-12-13 |
-| [speedrun_shiny](./speedrun_shiny) | 1 | 2026-02-01 |
-| [speedrun_silent](./speedrun_silent) | 1 | 2026-04-28 |
-| [speedrun_sqn](./speedrun_sqn) | 1 | 2025-11-15 |
-| [speedrun_svet](./speedrun_svet) | 1 | 2026-05-06 |
-| [speedrun_toni](./speedrun_toni) | 1 | 2026-06-05 |
-| [speedrun_tr](./speedrun_tr) | 5 | 2026-06-04 |
-| [speedrun_tracer](./speedrun_tracer) | 1 | 2026-06-07 |
-| [speedrun_trasher2](./speedrun_trasher2) | 1 | 2026-05-03 |
-| [speedrun_triskelion_ruins_beta1](./speedrun_triskelion_ruins_beta1) | 1 | 2025-11-01 |
-| [speedrun_ukraine_beta](./speedrun_ukraine_beta) | 1 | 2026-02-01 |
-| [speedrun_utug2](./speedrun_utug2) | 1 | 2026-01-29 |
-| [speedrun_vantara](./speedrun_vantara) | 1 | 2026-04-28 |
-| [speedrun_venem_strafeace](./speedrun_venem_strafeace) | 1 | 2026-05-17 |
-| [speedrun_voidsanctum_beta2](./speedrun_voidsanctum_beta2) | 2 | 2025-10-26 |
-| [speedrun_w00dfun](./speedrun_w00dfun) | 9 | 2026-05-05 |
-| [speedrun_w00dfun_nw](./speedrun_w00dfun_nw) | 1 | 2025-09-14 |
-| [speedrun_wander](./speedrun_wander) | 1 | 2026-05-01 |
-| [speedrun_wex](./speedrun_wex) | 1 | 2025-12-05 |
-| [speedrun_yagrehsart_fix](./speedrun_yagrehsart_fix) | 1 | 2025-12-05 |
+| Metric | Value |
+| :-- | --: |
+| Maps | 84 |
+| Archived PBs | 150 |
+| Latest Update | 2026-06-07 |
 
----
+## Structure
 
-### Statistics
-- Total Maps: **84**
-- Total Demos: **150**
+| Path | Contents |
+| :-- | :-- |
+| `manifest.json` | Repository summary and per-map manifest pointers |
+| `maps/<map>/manifest.json` | Runs archived for one map |
+| `maps/<map>/*.zip` | Demo archive files |
+
+## Access
+
+Use `manifest.json` as the entry point. Each map manifest contains archive filenames and byte ranges for files inside each zip.

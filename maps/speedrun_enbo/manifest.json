@@ -1,0 +1,35 @@
+{
+  "map": "speedrun_enbo",
+  "updatedAt": "2026-06-19T05:52:24.509704Z",
+  "runs": [
+    {
+      "uid": "D2217PIKB",
+      "rid": 21153,
+      "hash": "c4a6bb88f961eff82dde8b83a2dcc3754f1194bad35a42ebcd1d98abe8b0e328",
+      "t": 18999,
+      "sid": "STEAM_0:1:796767048",
+      "at": "2025-12-10T16:03:57Z",
+      "zip": "00018999_STEAM_0_1_796767048_20251210-160357.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_enbo-20251210-#D2217PIKB.analysis.json",
+          "off": 77,
+          "size": 723960
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_enbo-20251210-#D2217PIKB.dem",
+          "off": 724104,
+          "size": 263232
+        },
+        {
+          "type": "replay",
+          "name": "21153.replay.xz",
+          "off": 987381,
+          "size": 101020
+        }
+      ]
+    }
+  ]
+}

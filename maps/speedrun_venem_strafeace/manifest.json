@@ -1,0 +1,35 @@
+{
+  "map": "speedrun_venem_strafeace",
+  "updatedAt": "2026-06-19T05:52:24.509704Z",
+  "runs": [
+    {
+      "uid": "W8L7E0HDK",
+      "rid": 53631,
+      "hash": "e772635076224146bd6d02797fd3aef8a142847dafbdea4ecdf2bdcf4d85807d",
+      "t": 21721,
+      "sid": "STEAM_0:1:87291981",
+      "at": "2026-05-17T11:39:00Z",
+      "zip": "00021721_STEAM_0_1_87291981_20260517-113900.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_venem_strafeace-20260517-#W8L7E0HDK.analysis.json",
+          "off": 88,
+          "size": 838804
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_venem_strafeace-20260517-#W8L7E0HDK.dem",
+          "off": 838970,
+          "size": 256659
+        },
+        {
+          "type": "replay",
+          "name": "53631.replay.xz",
+          "off": 1095674,
+          "size": 114172
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "map": "speedrun_trasher2",
+  "updatedAt": "2026-06-19T05:52:24.509704Z",
+  "runs": [
+    {
+      "uid": "T0SR91FWB",
+      "rid": 47760,
+      "hash": "246a1c29603bd2b0201946eae007f80202f12d9a8e061e9d8615726fe41a78c7",
+      "t": 13501,
+      "sid": "STEAM_0:1:771348382",
+      "at": "2026-05-03T01:10:30Z",
+      "zip": "00013501_STEAM_0_1_771348382_20260503-011030.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_trasher2-20260503-#T0SR91FWB.analysis.json",
+          "off": 81,
+          "size": 528113
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_trasher2-20260503-#T0SR91FWB.dem",
+          "off": 528265,
+          "size": 199434
+        },
+        {
+          "type": "replay",
+          "name": "47760.replay.xz",
+          "off": 727744,
+          "size": 75036
+        }
+      ]
+    }
+  ]
+}

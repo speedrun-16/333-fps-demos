@@ -1,0 +1,35 @@
+{
+  "map": "deathrun_magic",
+  "updatedAt": "2026-06-19T05:52:24.509704Z",
+  "runs": [
+    {
+      "uid": "7JTOA2ADL",
+      "rid": 18055,
+      "hash": "da6beffe4b4f9e00a6dc5b16beff86c8193bc428090d2de3762bb2c04b850153",
+      "t": 11464,
+      "sid": "STEAM_0:1:461671282",
+      "at": "2025-11-27T13:03:48Z",
+      "zip": "00011464_STEAM_0_1_461671282_20251127-130348.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "deathrun_magic-20251127-#7JTOA2ADL.analysis.json",
+          "off": 78,
+          "size": 472082
+        },
+        {
+          "type": "dem",
+          "name": "deathrun_magic-20251127-#7JTOA2ADL.dem",
+          "off": 472228,
+          "size": 160248
+        },
+        {
+          "type": "replay",
+          "name": "18055.replay.xz",
+          "off": 632521,
+          "size": 56744
+        }
+      ]
+    }
+  ]
+}

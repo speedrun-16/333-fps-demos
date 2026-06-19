@@ -1,0 +1,35 @@
+{
+  "map": "deathrun_linea",
+  "updatedAt": "2026-06-19T05:52:24.509704Z",
+  "runs": [
+    {
+      "uid": "D41MB9I2O",
+      "rid": 60988,
+      "hash": "599903c6ff6cbb7f832a109051ca71d7f44fbc56da5812df7f20f4b2bca895a4",
+      "t": 13746,
+      "sid": "STEAM_0:0:193002961",
+      "at": "2026-06-04T16:32:53Z",
+      "zip": "00013746_STEAM_0_0_193002961_20260604-163253.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "deathrun_linea-20260604-#D41MB9I2O.analysis.json",
+          "off": 78,
+          "size": 548660
+        },
+        {
+          "type": "dem",
+          "name": "deathrun_linea-20260604-#D41MB9I2O.dem",
+          "off": 548806,
+          "size": 189053
+        },
+        {
+          "type": "replay",
+          "name": "60988.replay.xz",
+          "off": 737904,
+          "size": 65292
+        }
+      ]
+    }
+  ]
+}
