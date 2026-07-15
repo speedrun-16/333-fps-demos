@@ -1,7 +1,7 @@
 {
   "category": 5,
   "categoryName": "333 FPS",
-  "updatedAt": "2026-07-15T12:00:07.798Z",
+  "updatedAt": "2026-07-15T18:00:00.499Z",
   "maps": {
     "speedrun_insanity": {
       "n": 2,
@@ -54,7 +54,7 @@
     "speedrun_w00dfun": {
       "n": 10,
       "best": 9683,
-      "at": "2026-07-15T11:59:43.000Z",
+      "at": "2026-07-15T12:01:16.000Z",
       "manifest": "maps/speedrun_w00dfun/manifest.json"
     },
     "speedrun_artakey_no_ramp": {
