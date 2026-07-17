@@ -1,7 +1,7 @@
 {
   "category": 5,
   "categoryName": "333 FPS",
-  "updatedAt": "2026-07-15T18:00:00.499Z",
+  "updatedAt": "2026-07-17T18:00:10.809Z",
   "maps": {
     "speedrun_insanity": {
       "n": 2,
@@ -280,9 +280,9 @@
       "manifest": "maps/speedrun_evi_big_long/manifest.json"
     },
     "speedrun_outside_estonia2": {
-      "n": 4,
+      "n": 5,
       "best": 13688,
-      "at": "2026-04-16T10:57:01Z",
+      "at": "2026-07-17T15:46:47.000Z",
       "manifest": "maps/speedrun_outside_estonia2/manifest.json"
     },
     "speedrun_evidens": {
