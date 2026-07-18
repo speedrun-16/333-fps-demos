@@ -1,7 +1,7 @@
 {
   "category": 5,
   "categoryName": "333 FPS",
-  "updatedAt": "2026-07-17T18:00:10.809Z",
+  "updatedAt": "2026-07-18T18:00:12.984Z",
   "maps": {
     "speedrun_insanity": {
       "n": 2,
@@ -16,9 +16,9 @@
       "manifest": "maps/speedrun_calisto2k/manifest.json"
     },
     "speedrun_pupsik": {
-      "n": 4,
-      "best": 7104,
-      "at": "2026-06-07T12:22:27Z",
+      "n": 5,
+      "best": 7067,
+      "at": "2026-07-18T14:46:54.000Z",
       "manifest": "maps/speedrun_pupsik/manifest.json"
     },
     "speedrun_joker1": {
@@ -206,6 +206,12 @@
       "best": 13125,
       "at": "2025-11-19T17:45:06Z",
       "manifest": "maps/speedrun_mnogostrafe2/manifest.json"
+    },
+    "speedrun_celerior_beta1": {
+      "n": 1,
+      "best": 15240,
+      "at": "2026-07-18T15:25:04.000Z",
+      "manifest": "maps/speedrun_celerior_beta1/manifest.json"
     },
     "speedrun_1000fps_battle": {
       "n": 8,
