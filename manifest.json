@@ -1,7 +1,7 @@
 {
   "category": 5,
   "categoryName": "333 FPS",
-  "updatedAt": "2026-07-18T18:00:12.984Z",
+  "updatedAt": "2026-07-19T18:00:07.878Z",
   "maps": {
     "speedrun_insanity": {
       "n": 2,
@@ -332,6 +332,12 @@
       "best": 20351,
       "at": "2025-11-15T13:53:16Z",
       "manifest": "maps/speedrun_sqn/manifest.json"
+    },
+    "speedrun_small_white": {
+      "n": 1,
+      "best": 7919,
+      "at": "2026-07-19T12:46:40.000Z",
+      "manifest": "maps/speedrun_small_white/manifest.json"
     },
     "deathrun_forest2_final": {
       "n": 2,
