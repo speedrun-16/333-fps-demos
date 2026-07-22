@@ -1,7 +1,7 @@
 {
   "category": 5,
   "categoryName": "333 FPS",
-  "updatedAt": "2026-07-19T18:00:07.878Z",
+  "updatedAt": "2026-07-22T00:00:16.553Z",
   "maps": {
     "speedrun_insanity": {
       "n": 2,
@@ -94,9 +94,9 @@
       "manifest": "maps/speedrun_silent/manifest.json"
     },
     "speedrun_jeans_short": {
-      "n": 2,
-      "best": 8155,
-      "at": "2026-05-17T13:51:54Z",
+      "n": 3,
+      "best": 7733,
+      "at": "2026-07-21T22:40:10.000Z",
       "manifest": "maps/speedrun_jeans_short/manifest.json"
     },
     "speedrun_garden": {
