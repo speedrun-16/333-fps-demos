@@ -1,7 +1,7 @@
 {
   "category": 5,
   "categoryName": "333 FPS",
-  "updatedAt": "2026-07-22T00:00:16.553Z",
+  "updatedAt": "2026-07-23T18:00:04.849Z",
   "maps": {
     "speedrun_insanity": {
       "n": 2,
@@ -230,6 +230,12 @@
       "best": 10774,
       "at": "2025-09-14T07:19:11Z",
       "manifest": "maps/speedrun_w00dfun_nw/manifest.json"
+    },
+    "speedrun_sunnies_flat": {
+      "n": 1,
+      "best": 15440,
+      "at": "2026-07-23T13:14:59.000Z",
+      "manifest": "maps/speedrun_sunnies_flat/manifest.json"
     },
     "deathrun_greenworld_v1": {
       "n": 1,
