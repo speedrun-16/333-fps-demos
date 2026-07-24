@@ -1,0 +1,35 @@
+{
+  "map": "deathrun_kolor_v2",
+  "updatedAt": "2026-07-24T12:00:00.608Z",
+  "runs": [
+    {
+      "uid": "O4MSEDLVM",
+      "rid": 74580,
+      "hash": "16c95b6ce71e62c6b8053c08389cc1157577df0711497193378af1ef8d058b31",
+      "t": 11374,
+      "sid": "STEAM_0:1:87291981",
+      "at": "2026-07-24T11:34:49.000Z",
+      "zip": "00011374_STEAM_0_1_87291981_20260724-113449.zip",
+      "files": [
+        {
+          "type": "dem",
+          "name": "deathrun_kolor_v2-20260724-#O4MSEDLVM.dem",
+          "off": 71,
+          "size": 148092
+        },
+        {
+          "type": "analysis",
+          "name": "deathrun_kolor_v2-20260724-#O4MSEDLVM.analysis.json",
+          "off": 148244,
+          "size": 450112
+        },
+        {
+          "type": "replay",
+          "name": "74580.replay.xz",
+          "off": 598401,
+          "size": 58212
+        }
+      ]
+    }
+  ]
+}
