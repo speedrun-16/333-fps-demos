@@ -1,7 +1,7 @@
 {
   "category": 5,
   "categoryName": "333 FPS",
-  "updatedAt": "2026-08-03T18:00:10.862Z",
+  "updatedAt": "2026-08-06T06:00:05.092Z",
   "maps": {
     "deathrun_kolor_v2": {
       "n": 1,
@@ -202,9 +202,9 @@
       "manifest": "maps/deathrun_mars_salvation/manifest.json"
     },
     "speedrun_neocist": {
-      "n": 3,
+      "n": 4,
       "best": 13476,
-      "at": "2026-05-19T22:13:20Z",
+      "at": "2026-08-06T04:22:13.000Z",
       "manifest": "maps/speedrun_neocist/manifest.json"
     },
     "speedrun_mnogostrafe2": {
@@ -220,9 +220,9 @@
       "manifest": "maps/speedrun_celerior_beta1/manifest.json"
     },
     "speedrun_1000fps_battle": {
-      "n": 8,
+      "n": 9,
       "best": 7742,
-      "at": "2026-07-11T08:33:22.000Z",
+      "at": "2026-08-06T04:24:28.000Z",
       "manifest": "maps/speedrun_1000fps_battle/manifest.json"
     },
     "speedrun_eliterunnerz": {
