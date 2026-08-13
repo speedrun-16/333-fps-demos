@@ -1,7 +1,7 @@
 {
   "category": 5,
   "categoryName": "333 FPS",
-  "updatedAt": "2026-08-06T06:00:05.092Z",
+  "updatedAt": "2026-08-13T18:00:12.879Z",
   "maps": {
     "deathrun_kolor_v2": {
       "n": 1,
@@ -302,6 +302,12 @@
       "best": 13688,
       "at": "2026-07-17T15:46:47.000Z",
       "manifest": "maps/speedrun_outside_estonia2/manifest.json"
+    },
+    "speedrun_replay_return": {
+      "n": 1,
+      "best": 12096,
+      "at": "2026-08-13T14:34:53.000Z",
+      "manifest": "maps/speedrun_replay_return/manifest.json"
     },
     "speedrun_evidens": {
       "n": 2,
