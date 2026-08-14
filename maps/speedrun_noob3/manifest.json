@@ -1,0 +1,35 @@
+{
+  "map": "speedrun_noob3",
+  "updatedAt": "2026-08-14T12:00:07.669Z",
+  "runs": [
+    {
+      "uid": "RPWT994IN",
+      "rid": 81524,
+      "hash": "19b2b7089abfa69be6b644c2918587aa386ff157f6023b1d0dbacf066e93c9f6",
+      "t": 11499,
+      "sid": "STEAM_0:1:87291981",
+      "at": "2026-08-14T07:45:11.000Z",
+      "zip": "00011499_STEAM_0_1_87291981_20260814-074511.zip",
+      "files": [
+        {
+          "type": "dem",
+          "name": "speedrun_noob3-20260814-#RPWT994IN.dem",
+          "off": 68,
+          "size": 150795
+        },
+        {
+          "type": "analysis",
+          "name": "speedrun_noob3-20260814-#RPWT994IN.analysis.json",
+          "off": 150941,
+          "size": 483675
+        },
+        {
+          "type": "replay",
+          "name": "81524.replay.xz",
+          "off": 634661,
+          "size": 60456
+        }
+      ]
+    }
+  ]
+}
