@@ -1,7 +1,7 @@
 {
   "category": 5,
   "categoryName": "333 FPS",
-  "updatedAt": "2026-08-14T12:00:07.669Z",
+  "updatedAt": "2026-08-15T00:00:07.742Z",
   "maps": {
     "deathrun_kolor_v2": {
       "n": 1,
@@ -164,6 +164,12 @@
       "best": 8966,
       "at": "2026-05-10T10:16:05Z",
       "manifest": "maps/speedrun_pool_simple/manifest.json"
+    },
+    "speedrun_alt_terassi": {
+      "n": 1,
+      "best": 16579,
+      "at": "2026-08-14T19:50:12.000Z",
+      "manifest": "maps/speedrun_alt_terassi/manifest.json"
     },
     "speedrun_record": {
       "n": 1,
@@ -443,8 +449,8 @@
     },
     "de_dust": {
       "n": 3,
-      "best": 7454,
-      "at": "2026-05-27T16:07:39Z",
+      "best": 7412,
+      "at": "2026-08-14T19:28:38.000Z",
       "manifest": "maps/de_dust/manifest.json"
     },
     "speedrun_easy_v1": {

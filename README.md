@@ -6,8 +6,8 @@ Personal best demo archive for the 333 FPS category.
 
 | Metric | Value |
 | :-- | --: |
-| Maps | 91 |
-| Archived PBs | 166 |
+| Maps | 92 |
+| Archived PBs | 167 |
 | Latest Update | 2026-08-14 |
 
 ## Structure
