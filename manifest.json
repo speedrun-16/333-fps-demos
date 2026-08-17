@@ -1,7 +1,7 @@
 {
   "category": 5,
   "categoryName": "333 FPS",
-  "updatedAt": "2026-08-16T18:00:22.677Z",
+  "updatedAt": "2026-08-17T00:00:04.432Z",
   "maps": {
     "deathrun_kolor_v2": {
       "n": 1,
@@ -14,6 +14,12 @@
       "best": 22452,
       "at": "2025-12-13T13:06:49Z",
       "manifest": "maps/speedrun_insanity/manifest.json"
+    },
+    "speedrun_physical": {
+      "n": 1,
+      "best": 10183,
+      "at": "2026-08-16T19:37:46.000Z",
+      "manifest": "maps/speedrun_physical/manifest.json"
     },
     "speedrun_calisto2k": {
       "n": 1,
