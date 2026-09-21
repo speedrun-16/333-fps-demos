@@ -1,7 +1,7 @@
 {
   "category": 5,
   "categoryName": "333 FPS",
-  "updatedAt": "2026-09-20T18:00:15.315Z",
+  "updatedAt": "2026-09-21T00:00:10.318Z",
   "maps": {
     "deathrun_kolor_v2": {
       "n": 1,
@@ -234,7 +234,7 @@
     "speedrun_1000fps_battle": {
       "n": 10,
       "best": 7742,
-      "at": "2026-09-20T17:50:11.000Z",
+      "at": "2026-09-20T18:00:31.000Z",
       "manifest": "maps/speedrun_1000fps_battle/manifest.json"
     },
     "speedrun_eliterunnerz": {
