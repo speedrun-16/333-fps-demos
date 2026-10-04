@@ -1,7 +1,7 @@
 {
   "category": 5,
   "categoryName": "333 FPS",
-  "updatedAt": "2026-09-21T00:00:10.318Z",
+  "updatedAt": "2026-10-04T00:00:03.794Z",
   "maps": {
     "deathrun_kolor_v2": {
       "n": 1,
@@ -280,9 +280,9 @@
       "manifest": "maps/deathrun_astro/manifest.json"
     },
     "speedrun_runners": {
-      "n": 4,
+      "n": 5,
       "best": 10420,
-      "at": "2026-04-16T11:12:00Z",
+      "at": "2026-10-03T18:55:59.000Z",
       "manifest": "maps/speedrun_runners/manifest.json"
     },
     "speedrun_evidens_big": {
