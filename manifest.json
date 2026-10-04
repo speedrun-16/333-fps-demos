@@ -1,7 +1,7 @@
 {
   "category": 5,
   "categoryName": "333 FPS",
-  "updatedAt": "2026-10-04T00:00:03.794Z",
+  "updatedAt": "2026-10-04T18:00:00.531Z",
   "maps": {
     "deathrun_kolor_v2": {
       "n": 1,
@@ -302,6 +302,12 @@
       "best": 9142,
       "at": "2026-05-15T17:11:02Z",
       "manifest": "maps/speedrun_phe3/manifest.json"
+    },
+    "speedrun_enemy_easy": {
+      "n": 1,
+      "best": 30207,
+      "at": "2026-10-04T12:16:01.000Z",
+      "manifest": "maps/speedrun_enemy_easy/manifest.json"
     },
     "speedrun_evi_big_long": {
       "n": 2,

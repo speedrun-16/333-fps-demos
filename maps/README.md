@@ -6,9 +6,9 @@ Map-level archive directory for the 333 FPS category.
 
 | Metric | Value |
 | :-- | --: |
-| Maps | 94 |
-| Archived PBs | 173 |
-| Latest Update | 2026-10-03 |
+| Maps | 95 |
+| Archived PBs | 174 |
+| Latest Update | 2026-10-04 |
 
 ## Structure
 
