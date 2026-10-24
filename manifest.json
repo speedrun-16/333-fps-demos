@@ -1,7 +1,7 @@
 {
   "category": 5,
   "categoryName": "333 FPS",
-  "updatedAt": "2026-10-04T18:00:00.531Z",
+  "updatedAt": "2026-10-24T18:00:07.980Z",
   "maps": {
     "deathrun_kolor_v2": {
       "n": 1,
@@ -182,6 +182,12 @@
       "best": 10466,
       "at": "2026-02-01T15:23:25Z",
       "manifest": "maps/speedrun_record/manifest.json"
+    },
+    "speedrun_gmsr_remade_kaniel": {
+      "n": 1,
+      "best": 13470,
+      "at": "2026-10-24T15:42:54.000Z",
+      "manifest": "maps/speedrun_gmsr_remade_kaniel/manifest.json"
     },
     "speedrun_hb_ora-upania": {
       "n": 1,
