@@ -1,7 +1,7 @@
 {
   "category": 5,
   "categoryName": "333 FPS",
-  "updatedAt": "2026-10-24T18:00:07.980Z",
+  "updatedAt": "2026-11-15T00:00:11.393Z",
   "maps": {
     "deathrun_kolor_v2": {
       "n": 1,
@@ -32,6 +32,12 @@
       "best": 7067,
       "at": "2026-07-18T14:46:54.000Z",
       "manifest": "maps/speedrun_pupsik/manifest.json"
+    },
+    "speedrun_wonderland5_beta1": {
+      "n": 1,
+      "best": 25144,
+      "at": "2026-11-14T21:17:58.000Z",
+      "manifest": "maps/speedrun_wonderland5_beta1/manifest.json"
     },
     "speedrun_joker1": {
       "n": 1,
