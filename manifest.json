@@ -1,7 +1,7 @@
 {
   "category": 5,
   "categoryName": "333 FPS",
-  "updatedAt": "2026-11-15T00:00:11.393Z",
+  "updatedAt": "2026-11-16T18:00:23.781Z",
   "maps": {
     "deathrun_kolor_v2": {
       "n": 1,
@@ -500,6 +500,12 @@
       "best": 13203,
       "at": "2026-01-29T13:32:18Z",
       "manifest": "maps/speedrun_ramp-master_ex/manifest.json"
+    },
+    "speedrun_df_kool_mini7": {
+      "n": 1,
+      "best": 22179,
+      "at": "2026-11-16T16:39:53.000Z",
+      "manifest": "maps/speedrun_df_kool_mini7/manifest.json"
     },
     "speedrun_projetocs2": {
       "n": 1,
